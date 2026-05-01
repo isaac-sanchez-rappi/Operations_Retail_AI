@@ -1,0 +1,6 @@
+[project]
+name = "operational_alerts_ai"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["scr", "modulo2_motor_alertas"]
