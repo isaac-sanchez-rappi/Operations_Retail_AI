@@ -39,7 +39,7 @@ Y propone acciones claras, como ajustar incentivos (**earnings**) antes de que e
 
 ```bash
 git clone <repo_url>
-cd Operational_Alerts_Ai
+cd Operations_Retail_AI\Operational_Alerts_Ai
 ```
 
 ---
