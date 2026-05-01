@@ -50,10 +50,10 @@ cd Operations_Retail_AI\Operational_Alerts_Ai
 pip install -e .
 ```
 
-⚠️ Si falla:
+y
 
 ```bash
-pip install .
+pip install -r requirements.txt
 ```
 
 ---
