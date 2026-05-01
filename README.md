@@ -63,12 +63,13 @@ pip install .
 Crear un archivo `.env` en la raíz:
 
 ```env
-TELEGRAM_BOT_TOKEN=your_token_here
-TELEGRAM_CHAT_ID=your_chat_id_here
+TELEGRAM_BOT_TOKEN=your_token_here (8792157810:AAHG3u1zhAj0YwNOKmWgoJQsHkeR8TcuZ7M) -> Usar esta para ejecutarlo
+TELEGRAM_CHAT_ID=your_chat_id_here (1003708218816) -> Usar esta para ejecutarlo
 
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY=your_api_key_here (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) -> Usar esta para ejecutarlo
 GROQ_MODEL=llama3-70b-8192
 ```
+
 
 
 ---
